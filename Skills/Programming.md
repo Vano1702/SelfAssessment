@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 👂 heard
   - identifier
-  - variable
-  - constant
+  - variable 👂 heard
+  - constant 👂 heard
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function 👂 heard
   - procedure
-  - method
-  - class
+  - method 👂 heard
+  - class 👂 heard
   - prototype
   - event
   - type
   - primitive types
   - reference types
-  - flag
+  - flag 👂 heard
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops 👂 heard
   - assignment
   - regular expression
   - interface
@@ -40,7 +40,7 @@
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 👂 heard
   - callback
   - listener
   - compose
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 👂 heard
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object 👂 heard
+  - class 👂 heard
   - collection
   - set
   - hash table
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler 🎓 known
+  - transpiler 👂 heard
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
   - refactoring
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 
   - magic numbers
   - hardcode
   - complexity
