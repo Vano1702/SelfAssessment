@@ -1,77 +1,78 @@
 ## Python
 
 - Language
-  - object 👂 heard
-  - self
-  - function 👂 heard
-  - generator
-  - iterator
-  - async function
-  - async generator
-  - async iterator
-  - chaining
-  - global
-  - local
-  - equality operators 👂 heard
-  - logical operators 👂 heard
-  - bitwise operators
-  - ternary operator
-  - yield
-  - await
-  - f-string 👂 heard
-  - del
-  - in 👂 heard
-  - super
-  - None
+  - object 🖐️ used
+  - class 🖐️ used
+  - method 🖐️ used
+  - self 🖐️ used
+  - function 🖐️ used
+  - generator 🖐️ used
+  - iterator 👂 heard
+  - async function 👂 heard
+  - async generator👂 heard
+  - async iterator 👂 heard
+  - chaining 👂 heard
+  - global 🖐️ used
+  - local 🖐️ used
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - yield 🎓 known
+  - await 👂 heard
+  - f-string 🖐️ used
+  - del 🎓 known
+  - in 🖐️ used
+  - super 🎓 known
+  - None 🖐️ used
 
 - Statements
-  - if 👂 heard
-  - while 👂 heard
-  - for 👂 heard
-  - try..except
-  - break 👂 heard
-  - continue
-  - import 👂 heard
-  - pass 👂 heard
-  - raise
-  - with
-  - yield
-  - return 👂 heard
+  - if 🖐️ used
+  - while 🖐️ used
+  - for 🖐️ used
+  - try..except 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - pass 🖐️ used
+  - raise 🖐️ used
+  - with 🖐️ used
+  - yield 🎓 known
+  - return 🖐️ used
 
 - Functions
-  - function declaration 
-  - lambda function
-  - default parameters
-  - decorators
+  - function declaration 🖐️ used
+  - lambda function 🖐️ used
+  - default parameters 🖐️ used
+  - decorators 👂 heard
 
 - Data Structures
-  - string 👂 heard
-  - list 👂 heard
-  - tuple
-  - dict
-  - set
-  - frozenset
-  - namedtuple
-  - deque
-  - counter
-  - OrderedDict
-  - defaultdict
-  - array
+  - string 🖐️ used
+  - list 🖐️ used
+  - tuple 🖐️ used
+  - dict 🖐️ used
+  - set 🖐️ used
+  - frozenset 👂 heard
+  - namedtuple 👂 heard
+  - deque 👂 heard
+  - counter 👂 heard
+  - OrderedDict 👂 heard
+  - defaultdict 👂 heard
  
 
 - Modules
-  - os
-  - sys
-  - math 👂 heard
-  - datetime
-  - json
-  - random 👂 heard
-  - collections
-  - unittest
-  - csv
-  - tkinter
-  - numpy
-  - pandas
-  - matplotlib
-  - flask
-  - django
+  - os 🖐️ used
+  - sys 🖐️ used
+  - math 🖐️ used 
+  - datetime 🖐️ used
+  - json 🖐️ used
+  - random 🖐️ used
+  - collections 👂 heard
+  - unittest 👂 heard
+  - csv 👂 heard
+  - tkinter 👂 heard
+  - numpy 👂 heard
+  - pandas 👂 heard
+  - matplotlib 🖐️ used
+  - flask 👂 heard
+  - django 👂 heard 
