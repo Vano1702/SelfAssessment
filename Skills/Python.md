@@ -1,0 +1,77 @@
+## Python
+
+- Language
+  - object 👂 heard
+  - self
+  - function 👂 heard
+  - generator
+  - iterator
+  - async function
+  - async generator
+  - async iterator
+  - chaining
+  - global
+  - local
+  - equality operators 👂 heard
+  - logical operators 👂 heard
+  - bitwise operators
+  - ternary operator
+  - yield
+  - await
+  - f-string 👂 heard
+  - del
+  - in 👂 heard
+  - super
+  - None
+
+- Statements
+  - if 👂 heard
+  - while 👂 heard
+  - for 👂 heard
+  - try..except
+  - break 👂 heard
+  - continue
+  - import 👂 heard
+  - pass 👂 heard
+  - raise
+  - with
+  - yield
+  - return 👂 heard
+
+- Functions
+  - function declaration 
+  - lambda function
+  - default parameters
+  - decorators
+
+- Data Structures
+  - string 👂 heard
+  - list 👂 heard
+  - tuple
+  - dict
+  - set
+  - frozenset
+  - namedtuple
+  - deque
+  - counter
+  - OrderedDict
+  - defaultdict
+  - array
+ 
+
+- Modules
+  - os
+  - sys
+  - math 👂 heard
+  - datetime
+  - json
+  - random 👂 heard
+  - collections
+  - unittest
+  - csv
+  - tkinter
+  - numpy
+  - pandas
+  - matplotlib
+  - flask
+  - django
