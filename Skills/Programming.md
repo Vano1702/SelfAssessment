@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 👂 heard
-  - identifier
-  - variable 👂 heard
-  - constant 👂 heard
-  - scalar
-  - literal
-  - expression
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
   - heap
-  - function 👂 heard
+  - function 🖐️ used
   - procedure
-  - method 👂 heard
-  - class 👂 heard
+  - method 🖐️ used
+  - class 🖐️ used
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
-  - flag 👂 heard
+  - type 🎓 known
+  - primitive types 🎓 known
+  - reference types 👂 heard
+  - flag 🖐️ used
   - lexical scope
-  - code block
-  - conditions
-  - loops 👂 heard
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -30,18 +30,18 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
+  - signature 🎓 known
+  - argument 🎓 known
+  - parameter 🎓 known
+  - pure function 🎓 known
+  - lambda expression 🖐️ used
+  - side effects 👂 heard
   - closure
   - partial application
   - curry
   - higher order
-  - recursion 👂 heard
-  - callback
+  - recursion 🖐️ used
+  - callback 👂 heard
   - listener
   - compose
   - pipe
@@ -50,57 +50,57 @@
   - functor
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator 🖐️ used
+  - coroutine 👂 heard
 - Data structures
-  - array 👂 heard
+  - array 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object 👂 heard
-  - class 👂 heard
-  - collection
-  - set
-  - hash table
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection 🖐️ used
+  - set 🖐️ used
+  - hash table 👂 heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 👂 heard
   - stack
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree 👂 heard
+  - graph 👂 heard
+  - iterator 👂 heard
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 🎓 known
 - Process & style
-  - compiler 🎓 known
-  - transpiler 👂 heard
-  - linter
+  - compiler 🖐️ used
+  - transpiler 🎓 known
+  - linter 🖐️ used
   - polyfill
   - debugger 👂 heard
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm 
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - refactoring 👂 heard
+  - code review 👂 heard
+  - antipatterns 👂 heard
+  - paradigm 👂 heard
+  - algorithm 🎓 known
+  - magic numbers 🎓 known
+  - hardcode 🎓 known
+  - complexity 👂 heard
+  - decomposition 👂 heard
+  - spaghetti 👂 heard
+  - silver bullet 👂 heard
+  - not invented here 
+  - dead code 🎓 known
+  - unreachable code 🎓 known
+  - duplicate code 🎓 known
+  - exception 👂 heard
+  - return early 👂 heard
+  - unittest 👂 heard
+  - git 🖐️ used
+  - github 🖐️ used
